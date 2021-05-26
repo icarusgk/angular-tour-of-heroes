@@ -1,5 +1,14 @@
 # AngularTourOfHeroes
 
+App to learn angular basics such as:
+* Components
+* Modules
+* Templates
+* Directives
+* Services
+* Data-Binding
+* Routing
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
 ## Development server
